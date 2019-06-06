@@ -17,8 +17,8 @@
 		define('DB_USERNAME', 'root');
 		define('DB_PASSWORD', '');
 	} else {
-		define('DB_HOST', 'cedricmiqcuser.mysql.db');
+		define('DB_HOST', 'XXXXXXXXX');
 		define('DB_DSN', 'mysql:host='.DB_HOST.';dbname=mmichallenge;port=3306');
-		define('DB_USERNAME', 'cedricmiqcuser');
-		define('DB_PASSWORD', 'Hahd78z12sdc81sd45s');
+		define('DB_USERNAME', 'XXXXXXXXXXXXX');
+		define('DB_PASSWORD', 'XXXXXXXXXXXXX');
 	}
