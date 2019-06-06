@@ -1,0 +1,15 @@
+RewriteEngine On
+
+
+RewriteRule ^play$				index.php
+RewriteRule ^play/$				index.php
+
+RewriteRule ^connexion$			login.php
+RewriteRule ^connexion/$		login.php
+
+RewriteRule ^deconnexion$		logout.php
+RewriteRule ^deconnexion/$		logout.php
+
+
+RewriteRule ^creation-compte$		creation-compte.php
+RewriteRule ^creation-compte/$		creation-compte.php
